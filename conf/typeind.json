@@ -1,0 +1,116 @@
+[
+    {       
+            "type":"Agricultural and Rural Development",
+            "indlist": [{
+                            "c":"AG.LND.IRIG.AG.ZS",
+                            "d":"Agricultural irrigated land (% of total agricultural land)"
+                        },
+                        {
+                            "c":"AG.LND.AGRI.ZS",
+                            "d":"Agricultural land (% of land area)"
+                        },
+                        {
+                            "c":"AG.LND.TRAC.ZS",
+                            "d":"Agricultural machinery, tractors per 100 sq. km of arable land"
+                        },
+                        {
+                            "c":"NV.AGR.TOTL.ZS",
+                            "d":"Agriculture, value added (% of GDP)"
+                        },
+                        {
+                            "c":"AG.LND.ARBL.ZS",
+                            "d":"Arable land (% of land area)"
+                        },
+                        {
+                            "c":"AG.LND.ARBL.HA.PC",
+                            "d":"Arable land (hectares per person)"
+                        },
+                        {
+                            "c":"AG.YLD.CREL.KG",
+                            "d":"Cereal yield (kg per hectare)"
+                        },
+                        {
+                            "c":"AG.PRD.CROP.XD",
+                            "d":"Crop production index (2004-2006 = 100)"
+                        },
+                        {
+                            "c":"SL.AGR.EMPL.FE.ZS",
+                            "d":"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+                        },
+                        {
+                            "c":"SL.AGR.EMPL.MA.ZS",
+                            "d":"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+                        },
+                        {
+                            "c":"AG.CON.FERT.ZS",
+                            "d":"Fertilizer consumption (kilograms per hectare of arable land)"
+                        },
+                        {
+                            "c":"AG.PRD.FOOD.XD",
+                            "d":"Food production index (2004-2006 = 100)"
+                        },
+                        {
+                            "c":"AG.LND.FRST.ZS",
+                            "d":"Forest area (% of land area)"
+                        },
+                        {
+                            "c":"AG.LND.FRST.K2",
+                            "d":"Forest area (sq. km)"
+                        },
+                        {
+                            "c":"AG.LND.TOTL.K2",
+                            "d":"Land area (sq. km)"
+                        },
+                        {
+                            "c":"AG.LND.CREL.HA",
+                            "d":"Land under cereal production (hectares)"
+                        },
+                        {
+                            "c":"AG.PRD.LVSK.XD",
+                            "d":"Livestock production index (2004-2006 = 100)"
+                        },
+                        {
+                            "c":"AG.LND.CROP.ZS",
+                            "d":"Permanent cropland (% of land area)"
+                        },
+                        {
+                            "c":"SP.RUR.TOTL",
+                            "d":"Rural population"
+                        },
+                        {
+                            "c":"SP.RUR.TOTL.ZS",
+                            "d":"Rural population (% of total population)"
+                        },
+                        {
+                            "c":"SI.POV.RUGP",
+                            "d":"Rural poverty gap at national poverty lines (%)"
+                        },
+                        {
+                            "c":"SI.POV.RUHC",
+                            "d":"Rural poverty headcount ratio at national poverty lines (% of rural population)"
+                        },
+                        {
+                            "c":"AG.SRF.TOTL.K2",
+                            "d":"Surface area (sq. km)"
+                        }]
+    },
+    {       
+            "type":"Aid Effectiveness",
+            "indlist": [{
+                            "c":"BX.GRT.EXTA.CD.WD",
+                            "d":"Grants, excluding technical cooperation (BoP, current US$)"
+                        },
+                        {
+                            "c":"SH.TBS.INCD",
+                            "d":"Incidence of tuberculosis (per 100,000 people)"
+                        },
+                        {
+                            "c":"SI.DST.FRST.20",
+                            "d":"Income share held by lowest 20%"
+                        },
+                        {
+                            "c":"SH.STA.MMRT",
+                            "d":"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+                        }]
+    }
+]

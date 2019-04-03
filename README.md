@@ -1,6 +1,7 @@
 # WBFetch
 Simple App for Fetching World Bank Data
 
+![wbfetch](https://user-images.githubusercontent.com/39004376/55493679-98fd5100-5663-11e9-95c2-6d9bea0be36b.png)
 
 WBFetch is a simple desktop application for retrieving statistical data from worldbank. This application uses the API function of Worldbank which can be accessed via http://api.worldbank.org/v2/countries/.
 

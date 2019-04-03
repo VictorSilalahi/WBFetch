@@ -13,4 +13,4 @@ You can immediately get WB data in the following way:
 6. If you want to get JSON data, then click the Open in browser button
 For development in a better direction, advice and instructions are needed.
 
-WBFetch was developed by Victor Silalahi using the python programming language. 
+WBFetch was developed by Victor Silalahi using the python. 
